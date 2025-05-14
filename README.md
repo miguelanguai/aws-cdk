@@ -12,3 +12,4 @@ Creación de una Lambda para emplear en API Gateway.
 * `npx cdk deploy`  Despliega este stack a tu región predeterminada de AWS (en configuración)
 * `npx cdk diff`    Compara el stack desplegado con el estado actual
 * `npx cdk synth`   Emite la plantilla CloudFormation
+* `cdk destroy`     Destruye el CDK
